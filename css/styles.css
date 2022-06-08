@@ -1,0 +1,114 @@
+/***************TAG SELECTORS*********/
+
+
+div{
+    background-color: #e4f9f5;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+h1{
+    font-family: 'Secular One', sans-serif;
+    
+    margin-top: 0px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span{
+    display: inline-block;
+    color: #2f8f9d;
+}
+table{
+    margin: 0%;
+    position: relative;
+    left: 1140px;
+}
+/*************CLASS SELECTORS********/
+
+.topcontainer{
+    margin-top: auto;
+    position: relative;
+    padding-top: 200px;
+}
+
+.middlecontainer{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    height: 100vh;
+}
+
+
+.bottomcontainer{
+    background-color:blue;
+    height: 200px;
+    width: 200px;
+
+}
+
+.bottomcloud{
+    position: absolute;
+    margin: 0;
+    left: 25%;
+    top: 20%;
+    height: 100px;
+    width: 100px;
+    border-radius: 1000px;
+    background-color: #2f8f9d;
+}
+
+.topcloud{
+    right: 25%;
+    top: 50%;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 1000px;
+    background-color: #2f8f9d;
+}
+.squared-gif{
+    border-radius: 1000px;
+}
+.tech-list{
+    margin: 0%;
+    position: relative;
+    left: 995px;
+}
+
+.eng{
+    position: absolute;
+    top: 0;
+
+}
+.naruto{
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: 30%;
+}
+
+
+/*************ID SELECTORS********/
+#ian{
+    font-family: 'Secular One', sans-serif;
+}
+
+#ceo{
+    font-family: 'DM Sans', sans-serif;
+}
+
+#lighting1{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 1900px;
+    right: 40%;
+    text-align: left ;
+}
